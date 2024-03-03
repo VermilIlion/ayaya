@@ -1,21 +1,21 @@
 #EXTM3U
 #EXTINF:-1,PT BTV HD 
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/61984#checkedby:alliptvlinks.com
-#EXTINF:-1,SPORT TV 1 SD (PPV) alliptvlinks.com
+#EXTINF:-1,SPORT TV 1 SD 
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7440#checkedby:alliptvlinks.com
-#EXTINF:-1,PT SPORT TV 1 HD Backup NO_1 alliptvlinks.com
+#EXTINF:-1,PT SPORT TV 1 HD 
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62071#checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-country="PT" group-title="Sport",Sport TV 1 PT alliptvlinks.com
+#EXTINF:-1,Sport TV 1 PT alliptvlinks.com
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="PORTUGAL",|PT| SPORT TV 1 LOCAL Backup NO_1 alliptvlinks.com
+#EXTINF:-1,|PT| SPORT TV 1 LOCAL Backup NO_1 alliptvlinks.com
 http://goldiptvofficiel.tv:25461/@Hmontasser/DcGTHFqkZ2n2FDLSJJFHSD774FSDBFKLJSDH/36979#checkedby:alliptvlinks.com
 #EXTINF:-1,PT BTV HD Backup
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61984#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Portugese",PT SPORT TV 4 HD
+#EXTINF:-1,PT SPORT TV 4 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074#checkedby:alliptvlinks.com
 #EXTINF:-1,PT Sport TV 5
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62082#checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="Portugese",PT Sport TV 2 Backup 2
+#EXTINF:-1,PT Sport TV 2 Backup 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079#checkedby:alliptvlinks.com
 #EXTINF:-1,|US| NBA HD 
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/220263#checkedby:alliptvlinks.com
